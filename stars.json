@@ -1,14 +1,14 @@
 [
   {
     "full_name": "DavidBrightSparc/Tenets-of-IT",
-    "stargazers_count": 96,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 191,
+    "open_issues_count": 3,
+    "forks_count": 10
   },
   {
     "full_name": "apigee/devrel",
-    "stargazers_count": 89,
-    "open_issues_count": 12,
+    "stargazers_count": 90,
+    "open_issues_count": 13,
     "forks_count": 99
   },
   {
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 6155,
-    "open_issues_count": 69,
-    "forks_count": 207
+    "stargazers_count": 6178,
+    "open_issues_count": 70,
+    "forks_count": 208
   },
   {
     "full_name": "orbit-love/orbit-model",
     "stargazers_count": 870,
-    "open_issues_count": 5,
-    "forks_count": 59
+    "open_issues_count": 6,
+    "forks_count": 60
   },
   {
     "full_name": "filiph/linkcheck",
@@ -43,27 +43,27 @@
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 479,
+    "stargazers_count": 480,
     "open_issues_count": 4,
     "forks_count": 71
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 14887,
-    "open_issues_count": 31,
-    "forks_count": 8147
+    "stargazers_count": 14956,
+    "open_issues_count": 41,
+    "forks_count": 8183
   },
   {
     "full_name": "gurusabarish/hugo-profile",
     "stargazers_count": 135,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "forks_count": 73
   },
   {
     "full_name": "docker-slim/docker-slim",
-    "stargazers_count": 13678,
-    "open_issues_count": 121,
-    "forks_count": 501
+    "stargazers_count": 13692,
+    "open_issues_count": 122,
+    "forks_count": 502
   },
   {
     "full_name": "wkocjan/gatsby-theme-intro",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "chanakaudaya/solution-architecture-patterns",
-    "stargazers_count": 2669,
+    "stargazers_count": 2671,
     "open_issues_count": 3,
-    "forks_count": 438
+    "forks_count": 439
   },
   {
     "full_name": "wso2/k8s-ei-operator",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "sfx101/deck",
-    "stargazers_count": 976,
-    "open_issues_count": 14,
+    "stargazers_count": 977,
+    "open_issues_count": 13,
     "forks_count": 41
   },
   {
     "full_name": "provectus/kafka-ui",
-    "stargazers_count": 2890,
-    "open_issues_count": 169,
-    "forks_count": 329
+    "stargazers_count": 2901,
+    "open_issues_count": 172,
+    "forks_count": 332
   },
   {
     "full_name": "ory/keto",
-    "stargazers_count": 3303,
+    "stargazers_count": 3307,
     "open_issues_count": 53,
-    "forks_count": 227
+    "forks_count": 228
   },
   {
     "full_name": "pingidentity/pingone-magiclink-sample-solution",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "openid/AppAuth-JS",
-    "stargazers_count": 838,
+    "stargazers_count": 839,
     "open_issues_count": 26,
     "forks_count": 149
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 15923,
-    "open_issues_count": 56,
-    "forks_count": 2409
+    "stargazers_count": 15946,
+    "open_issues_count": 57,
+    "forks_count": 2411
   },
   {
     "full_name": "enspirit/makefile-for-monorepos",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "ossf/scorecard",
-    "stargazers_count": 2653,
-    "open_issues_count": 200,
-    "forks_count": 250
+    "stargazers_count": 2657,
+    "open_issues_count": 202,
+    "forks_count": 251
   },
   {
     "full_name": "wso2-extensions/identity-elk-integration",
