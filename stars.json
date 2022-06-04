@@ -1,9 +1,9 @@
 [
   {
     "full_name": "DavidBrightSparc/Tenets-of-IT",
-    "stargazers_count": 191,
+    "stargazers_count": 229,
     "open_issues_count": 3,
-    "forks_count": 10
+    "forks_count": 14
   },
   {
     "full_name": "apigee/devrel",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 6178,
+    "stargazers_count": 6193,
     "open_issues_count": 70,
     "forks_count": 208
   },
@@ -27,7 +27,7 @@
     "full_name": "orbit-love/orbit-model",
     "stargazers_count": 870,
     "open_issues_count": 6,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "filiph/linkcheck",
@@ -43,27 +43,27 @@
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 480,
+    "stargazers_count": 482,
     "open_issues_count": 4,
     "forks_count": 71
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 14956,
-    "open_issues_count": 41,
-    "forks_count": 8183
+    "stargazers_count": 14980,
+    "open_issues_count": 45,
+    "forks_count": 8208
   },
   {
     "full_name": "gurusabarish/hugo-profile",
-    "stargazers_count": 135,
-    "open_issues_count": 4,
-    "forks_count": 73
+    "stargazers_count": 136,
+    "open_issues_count": 5,
+    "forks_count": 74
   },
   {
     "full_name": "docker-slim/docker-slim",
-    "stargazers_count": 13692,
-    "open_issues_count": 122,
-    "forks_count": 502
+    "stargazers_count": 13694,
+    "open_issues_count": 124,
+    "forks_count": 503
   },
   {
     "full_name": "wkocjan/gatsby-theme-intro",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "airsonic-advanced/airsonic-advanced",
-    "stargazers_count": 639,
+    "stargazers_count": 640,
     "open_issues_count": 192,
     "forks_count": 73
   },
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "sfx101/deck",
-    "stargazers_count": 977,
+    "stargazers_count": 978,
     "open_issues_count": 13,
     "forks_count": 41
   },
   {
     "full_name": "provectus/kafka-ui",
-    "stargazers_count": 2901,
-    "open_issues_count": 172,
-    "forks_count": 332
+    "stargazers_count": 2905,
+    "open_issues_count": 180,
+    "forks_count": 333
   },
   {
     "full_name": "ory/keto",
-    "stargazers_count": 3307,
+    "stargazers_count": 3309,
     "open_issues_count": 53,
     "forks_count": 228
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "pingidentity/angular-spa-sample",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 15946,
+    "stargazers_count": 15955,
     "open_issues_count": 57,
-    "forks_count": 2411
+    "forks_count": 2412
   },
   {
     "full_name": "enspirit/makefile-for-monorepos",
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "ossf/scorecard",
-    "stargazers_count": 2657,
-    "open_issues_count": 202,
+    "stargazers_count": 2660,
+    "open_issues_count": 204,
     "forks_count": 251
   },
   {
